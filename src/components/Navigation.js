@@ -3,9 +3,7 @@ import React from "react";
 const Navigation = () => {
   return (
     <>
-      <nav
-        class="
-              navbar navbar-expand navbar-light
+      <nav class=" navbar navbar-expand navbar-light
               bg-white
               topbar
               mb-4
